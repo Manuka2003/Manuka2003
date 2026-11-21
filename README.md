@@ -1,121 +1,103 @@
-# 👋 Hi, I'm Manuka Kalpage
+# Hi, I'm Manuka Lakshan Perera Kalpage 👋
 
-### Computer Systems Engineering Undergraduate @ SLIIT
+🎓 Computer Systems Engineering Undergraduate at **SLIIT**  
+💻 Interested in Embedded Systems, Microcontrollers, PCB Design, Digital Systems, and Software Development.
 
-I'm a Computer Systems Engineering undergraduate at the **Sri Lanka Institute of Information Technology (SLIIT)**, passionate about developing practical solutions through hardware and software.
+---
 
-My technical interests include **Embedded Systems, Microcontrollers, PCB Design, Digital Systems, Software Development and Control Systems**.
+## 🚀 About Me
 
-- 💻 Technologies I have worked with include C, C++, Java, JavaScript, TypeScript and Python.
-- ⚡ Exploring and building projects in Embedded Systems, PCB Design, Digital Systems and Software Development.
-- 👯 Interested in collaborating on embedded systems and hardware projects.
-- 💬 Ask me about Arduino, ESP32, AVR Assembly, PCB Design, Verilog and MATLAB/Simulink.
+- 🎓 Currently pursuing a BSc (Hons) in Computer Systems Engineering at SLIIT.
+- 🔧 Interested in building practical projects involving embedded systems and electronics.
+- 💡 Exploring hardware design, PCB development, and software engineering.
+- 🤝 Always willing to learn new technologies and collaborate on interesting projects.
 - 📫 Reach me at: **manukalakshan94@gmail.com**
-- ⚡ Fun fact: I enjoy turning engineering ideas into real-world hardware projects!
 
 ---
 
-### 🎓 Education
-
-**Sri Lanka Institute of Information Technology (SLIIT)**
-
-- Degree: BSc (Hons) in Computer Systems Engineering
-- Expected Graduation: 2028
-
----
-
-### 💻 Technical Skills
+## 🛠️ Technical Skills
 
 **Programming Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- C, C++, Java, JavaScript, TypeScript, Python
 
 **Web Development**
+- HTML5, CSS3, Spring Boot
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+**Embedded Systems**
+- Arduino, ESP32, AVR Assembly, ATmega328P
 
-**Embedded Systems & Microcontrollers**
+**Engineering & Development Tools**
+- Proteus, KiCad, Microchip Studio, Icarus Verilog, MATLAB, Simulink
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
-![AVR](https://img.shields.io/badge/AVR-Microcontrollers-00599C?style=for-the-badge)
-
-**Engineering Software & Tools**
-
-![Proteus](https://img.shields.io/badge/Proteus-Circuit_Simulation-blue?style=for-the-badge)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-![Microchip Studio](https://img.shields.io/badge/Microchip_Studio-AVR_Development-CC0000?style=for-the-badge)
-![Icarus Verilog](https://img.shields.io/badge/Icarus_Verilog-HDL_Simulation-6A5ACD?style=for-the-badge)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-
-**Development Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Other Areas**
+- PCB Design and Fabrication
+- Digital Electronics
+- Finite State Machines (FSM)
+- PID Control Systems
 
 ---
 
-### 🚀 Featured Projects
+## 📂 Featured Projects
 
-**1. 4-Bit Pattern Detection System**
-
+### 1. 4-Bit Pattern Detection System
 - Designed a 4-bit pattern detection system to detect the binary sequence `0011`.
-- Implemented a Mealy Finite State Machine (FSM).
-- Worked on PCB design and physical implementation.
+- Implemented the detection logic using a Mealy Finite State Machine (FSM).
+- Used a 74LS165 PISO shift register for serial data input.
+- Designed the PCB schematic and layout using KiCad.
+- Completed PCB fabrication, component soldering, and physical circuit assembly.
+- Participated in hardware implementation and testing of the completed PCB.
 
-**2. Smart Traffic Junction Controller**
+### 2. Smart Traffic Junction Controller
+- Developed a smart traffic junction controller using an Arduino Uno (ATmega328P).
+- Implemented the control logic using AVR Assembly.
+- Designed and tested the system using Proteus and physical hardware.
+- Implemented normal, pedestrian, and night operating modes.
+- Used a 7-segment display for countdown indication.
 
-- Developed a smart traffic control system.
-- Implemented normal, pedestrian and night operating modes.
-- Integrated a 7-segment countdown display.
+### 3. Ball-and-Beam PID Control System
+- Worked on a Ball-and-Beam control system using an ESP32.
+- Applied PID control concepts to maintain ball position.
+- Used MATLAB and Simulink for system modelling and simulation.
 
-**3. Ball and Beam PID Controller**
-
-- Worked on a PID-based ball and beam control system.
-- Used ESP32 and MATLAB/Simulink for system development and simulation.
-
-**4. Medistore Pharmacy Management System**
-
-- Contributed to a pharmacy management web application.
-- Worked on staff registration, updating, deletion and duty management.
-- Used TypeScript for frontend development and Java for backend development.
-
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manuka2003&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuka2003&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manuka2003&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+### 4. Medistore – Pharmacy Management Website
+- Contributed to a group-developed pharmacy management website.
+- Worked on staff management functionality.
+- Implemented features to add, update, and delete staff members.
+- Developed task assignment and on-duty/off-duty management features.
+- Worked with TypeScript on the frontend and Java on the backend.
 
 ---
 
-### 🤝 Connect With Me
+## 📜 Certifications
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manuka-kalpage-b03929390/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Manuka2003-black?style=for-the-badge&logo=github)](https://github.com/Manuka2003)
-
-📧 **Email:** manukalakshan94@gmail.com
+- MATLAB & Simulink Onramp – MathWorks
 
 ---
 
-<p align="center">
-  **Building, Learning and Improving Every Day 🚀**
-</p>
+## 🎓 Education
+
+**Sri Lanka Institute of Information Technology (SLIIT)**  
+BSc (Hons) in Computer Systems Engineering  
+Expected Graduation: **2028**
+
+---
+
+## 🌐 Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/manuka-kalpage-b03929390](https://www.linkedin.com/in/manuka-kalpage-b03929390/)
+- **GitHub:** [github.com/Manuka2003](https://github.com/Manuka2003)
+- **Email:** manukalakshan94@gmail.com
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manuka2003&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manuka2003&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manuka2003&theme=tokyonight&hide_border=true)
+
+---
+
+⭐ *Always learning, building, and improving.*
